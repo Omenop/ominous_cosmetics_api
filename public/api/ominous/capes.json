@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "capes": [
+    {
+      "id": "yeann",
+      "name": "Yeann",
+      "textureUrl": "https://your-vercel-site.vercel.app/assets/capes/yeann.png",
+      "previewHex": "#14d7ff",
+      "tags": ["founder", "season_one"]
+    },
+    {
+      "id": "voidline",
+      "name": "Voidline",
+      "textureUrl": "https://your-vercel-site.vercel.app/assets/capes/voidline.png",
+      "previewHex": "#8a5cff",
+      "tags": ["legacy"]
+    }
+  ]
+}
