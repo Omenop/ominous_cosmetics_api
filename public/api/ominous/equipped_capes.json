@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "players": [
     {
-      "uuid": "3531e016-82a2-43d7-902e-ca83f1edcf0f",
+      "name": "Omen_op",
       "capeId": "yeann"
     },
     {
-      "uuid": "ea3038e0-2da7-4998-a0f8-cd8f5d8da21c",
+      "name": "Crafter_op",
       "capeId": "voidline"
     }
   ]
