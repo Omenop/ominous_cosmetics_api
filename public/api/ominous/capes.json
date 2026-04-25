@@ -15,5 +15,12 @@
       "previewHex": "#8a5cff",
       "tags": ["legacy"]
     }
+    {
+      "id": "tealgrid",
+      "name": "tealgrid",
+      "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/tealgrid.png",
+      "previewHex": "#8a5cff",
+      "tags": ["legacy"]
+    }
   ]
 }
