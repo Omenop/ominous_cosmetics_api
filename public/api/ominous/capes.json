@@ -18,8 +18,9 @@
     {
       "id": "tealgrid",
       "name": "tealgrid",
+      "textureFormat": "designer"
       "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/tealgrid.png",
-      "tags": ["legacy"]
+      "tags": ["system", "sample"]
     }
   ]
 }
