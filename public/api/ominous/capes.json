@@ -4,7 +4,7 @@
     {
       "id": "yeann",
       "name": "Yeann",
-      "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/yeann.png",
+      "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/yeann.gif",
       "previewHex": "#14d7ff",
       "tags": ["founder", "season_one"]
     },
