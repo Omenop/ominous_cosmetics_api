@@ -14,11 +14,11 @@
       "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/voidline.png",
       "previewHex": "#8a5cff",
       "tags": ["legacy"]
-    }
+    },
     {
       "id": "tealgrid",
       "name": "tealgrid",
-      "textureFormat": "designer"
+      "textureFormat": "designer",
       "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/tealgrid.png",
       "tags": ["system", "sample"]
     }
