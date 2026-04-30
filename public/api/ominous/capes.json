@@ -20,12 +20,12 @@
       "name": "tealgrid",
       "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/tealgrid.png",
       "tags": ["system", "sample"]
-    }
+    },
     {
       "id": "partnership",
       "name": "partnership",
       "textureUrl": "https://ominous-cosmetics-api.vercel.app/assets/capes/partnership.png",
       "tags": ["system", "sample"]
-    }
+    },
   ]
 }
