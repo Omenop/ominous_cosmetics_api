@@ -3,11 +3,19 @@
   "players": [
     {
       "name": "Omen_op",
-      "capeId": "yeann"
+      "capeId": "partnership"
     },
     {
       "name": "PiyushGamerZ514",
       "capeId": "yeann"
+    }
+    {
+      "name": "Octowen",
+      "capeId": "partnership"
+    }
+    {
+      "name": "Android14",
+      "capeId": "partnership"
     }
   ]
 }
